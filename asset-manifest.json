@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/frontendfreitagsmail/static/css/main.a617e044.chunk.css",
+    "main.js": "/frontendfreitagsmail/static/js/main.9b6377d8.chunk.js",
+    "main.js.map": "/frontendfreitagsmail/static/js/main.9b6377d8.chunk.js.map",
+    "runtime-main.js": "/frontendfreitagsmail/static/js/runtime-main.a3dbfe8c.js",
+    "runtime-main.js.map": "/frontendfreitagsmail/static/js/runtime-main.a3dbfe8c.js.map",
+    "static/js/2.99ec5f96.chunk.js": "/frontendfreitagsmail/static/js/2.99ec5f96.chunk.js",
+    "static/js/2.99ec5f96.chunk.js.map": "/frontendfreitagsmail/static/js/2.99ec5f96.chunk.js.map",
+    "static/js/3.6d2e20b5.chunk.js": "/frontendfreitagsmail/static/js/3.6d2e20b5.chunk.js",
+    "static/js/3.6d2e20b5.chunk.js.map": "/frontendfreitagsmail/static/js/3.6d2e20b5.chunk.js.map",
+    "index.html": "/frontendfreitagsmail/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/frontendfreitagsmail/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.99ec5f96.chunk.js.LICENSE.txt": "/frontendfreitagsmail/static/js/2.99ec5f96.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/frontendfreitagsmail/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3dbfe8c.js",
+    "static/js/2.99ec5f96.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9b6377d8.chunk.js"
+  ]
+}
